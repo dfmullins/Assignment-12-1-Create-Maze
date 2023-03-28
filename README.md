@@ -1,6 +1,10 @@
 # Assignment-12-1-Create-Maze
 Assignment 12.1 Create a Maze
 
+For the full Maze build (i.e. with libaray and packages), please download it from here:
+
+https://mazebuild.s3.amazonaws.com/MazeBuild.zip
+
 I used the Oculus Integration package and a hand animation script to render and animate hand gestures and gripping.
 I followed the below tutorial for the hand animation integration:
 
